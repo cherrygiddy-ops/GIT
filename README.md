@@ -1,2 +1,0 @@
-# GIT
-update read me
